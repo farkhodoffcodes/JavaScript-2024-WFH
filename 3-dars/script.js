@@ -176,3 +176,17 @@
 //     console.log('FizzBuzz')
 // }
 
+// let a = 2;
+
+// let mol = ""
+// let quy = "o't";
+
+
+// if(mol === "o't") {
+//     console.log(15);
+// }else if (quy === "o't") {
+//     console.log(18);
+// }else {
+//     console.log("Quyon yeb ketdi");
+// }
+
